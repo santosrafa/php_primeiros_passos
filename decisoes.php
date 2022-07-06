@@ -10,6 +10,6 @@ if ($idade >= 18) {
 }
 
 /* IF É UMA FORMA DE DECISAO
-
+(<, >, ==, !=) OPERADORES DE COMPARACAO
 || = AND
 && = OR */
