@@ -8,5 +8,5 @@ for ($contador = 1; $contador <= 15; $contador++){
 
 DUAS FORMAS DE ESCREVER A MESMA COISA $contador ++
 $contador = $contador + 1;
-$contador += $contador;
-$contador ++ */
+$contador += 1;
+$contador++; */
